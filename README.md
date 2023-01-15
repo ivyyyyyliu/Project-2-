@@ -3,7 +3,8 @@
 ## Author:LiPing Liu
 
 
-Business problem: According these patient information, we would like to predict if person has strock or not and from gender, age, disease, smoke status,etc.
+##Goal: 
+The goal of this project is to predict the patient whether have strock based on gender, age, disease, smoke status,etc.
 
 ## Data Source
 

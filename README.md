@@ -4,7 +4,7 @@
 
 ### Goal: 
 
-The goal of this project is to predict the patient whether have strock based on gender, age, disease, smoke status,etc.
+The goal of this project is to predict the patient whether have stroke based on gender, age, disease, smoke status,etc.
 
 ## Data Source
 
@@ -19,6 +19,9 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 ## Visualization:
 
 <img src="https://github.com/ivyyyyyliu/Project-2-/blob/main/Average%20age%20of%20Patients%20got%20stroke%20or%20not.png" height="500" width="800" >
+   0 indicates the patients do not have stroke. 1 indicates the patients do not have stroke
+   This graph shows that people who have stroke usually with higher average age. The average age for people who have stroke are about almost 70 years old.
+
 <img src="https://github.com/ivyyyyyliu/Project-2-/blob/main/Project%202.png" height="400" width="600" >
 
 ## Models Evaluated & Results

@@ -18,8 +18,8 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## Visualization:
 
-<img src="https://github.com/ivyyyyyliu/Project-2-/blob/main/Average%20age%20of%20Patients%20got%20stroke%20or%20not.png" height="400" width="600" >
-<img src="https://github.com/ivyyyyyliu/Project-2-/blob/main/Project%202.png" height="500" width="800" >
+<img src="https://github.com/ivyyyyyliu/Project-2-/blob/main/Average%20age%20of%20Patients%20got%20stroke%20or%20not.png" height="500" width="800" >
+<img src="https://github.com/ivyyyyyliu/Project-2-/blob/main/Project%202.png" height="400" width="600" >
 
 ## Models Evaluated & Results
 - Decision Tree Regressor Model (Testing Set): 0.8982785602503912

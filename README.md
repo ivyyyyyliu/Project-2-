@@ -4,6 +4,7 @@
 
 
 ##Goal: 
+
 The goal of this project is to predict the patient whether have strock based on gender, age, disease, smoke status,etc.
 
 ## Data Source

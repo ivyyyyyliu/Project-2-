@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
       - KNN Model
 
 ## Visualization:
-<img src="https://github.com/ivyyyyyliu/Project-2-/blob/main/Project%202.png" height="400" width="1000" >
+<img src="https://github.com/ivyyyyyliu/Project-2-/blob/main/Project%202.png" height="400" width="600" >
 
 ## Models Evaluated & Results
 - Decision Tree Regressor Model (Testing Set): 0.8982785602503912

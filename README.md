@@ -10,10 +10,11 @@ The goal of this project is to predict the patient whether have strock based on 
 
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
-### Maching Learning Using the Following Models:
-
-- Decision Tree Regressor Model
-- KNN Model
+## Method:
+  # Data was preprocessed by using SimpleImputer, pipelines and column transfer.
+  # Maching Learning Using the Following Models:
+    - Decision Tree Regressor Model
+    - KNN Model
 
 ## Models Evaluated & Results
 - Decision Tree Regressor Model (Testing Set): 0.8982785602503912
